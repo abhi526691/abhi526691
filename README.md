@@ -82,7 +82,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
-- 🛢 &nbsp;
+- 📦 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
   ![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=Adobe)
