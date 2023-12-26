@@ -109,6 +109,7 @@
 
 
 ## 👯 Communities
+* FullStack Developer at Dimensionless Technologies
 * Associate Software Developer at Ameex Technologies
 * web Developer at Samarthya
 * Web Developer at Magneta
@@ -118,15 +119,15 @@
 
 <table>
   <tr>
-    <td> :three: Internships Completed </td>
-    <td> :ten: Projects Completed </td>
-    <td>  :one: Guided Projects  </td>
-    <td>  :one: Virtual Internships </td>
+    <td> 4️⃣: Internships Completed </td>
+    <td> ♾️: Projects Completed </td>
+    <td>  :Many: Guided Projects  </td>
+    <td>  2️⃣: Virtual Internships </td>
   </tr>
   <tr>
-    <td>  :five: Golden Badges  </td>
+    <td>  5️⃣: Golden Badges  </td>
     <td>  :one::zero: Skills Verified </td>
-    <td>  :nine: Online Courses  </td>
+    <td>  ♾️: Online Courses  </td>
     <td>  :one::ten: Github Repos </td>
   </tr>
 </table>
