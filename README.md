@@ -31,8 +31,25 @@ I am a dedicated Full-Stack Developer with a deep passion for exploring the tran
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/abhi526691"><img src="https://github-readme-stats.vercel.app/api?username=abhi526691&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhi526691's GitHub stats" /></a>
+<a href="http://www.github.com/abhi526691">
+  <img src="https://streak-stats.demolab.com/?user=abhi526691&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+<a href="http://www.github.com/abhi526691"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi526691&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+## 📌 Pinned Repositories
 
+<a href="https://github.com/abhi526691/ResearchIQ">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi526691&repo=ResearchIQ&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/abhi526691/ATS-Resume-">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi526691&repo=ATS-Resume-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/abhi526691/Text-To-SQL-LLM">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi526691&repo=Text-To-SQL-LLM&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/abhi526691/Sentimental-Analysis">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi526691&repo=Sentimental-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 <div align="center">
@@ -40,3 +57,4 @@ I am a dedicated Full-Stack Developer with a deep passion for exploring the tran
 ##### Show some ❤️ by starring some of the repositories!
 
 </div>
+
