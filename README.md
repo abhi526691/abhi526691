@@ -10,7 +10,7 @@ I am a dedicated Full-Stack Developer with a deep passion for exploring the tran
 * ✉️  You can contact me at [abhi526691shek@gmail.com](mailto:abhi526691shek@gmail.com)
 * 🚀  I'm currently working on [MHA Solution](http://www.mhadesignlabs.com/)
 * 🧠  I'm learning Generative AI
-* 🤝  I'm open to collaborating on SuperLLM
+* 🤝  I'm open to collaborating on **SuperLLM**
 * ⚡  I'm secretly looking for a job which would help me make the most out of my skills
 
 ### Skills
