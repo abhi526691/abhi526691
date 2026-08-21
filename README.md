@@ -8,7 +8,7 @@ I am a dedicated Full-Stack Developer with a deep passion for exploring the tran
 
 * 🌍  I'm based in Toronto, Ontario
 * ✉️  You can contact me at [abhi526691shek@gmail.com](mailto:abhi526691shek@gmail.com)
-* 🚀  I'm currently working at Looking for a full-time opportunity
+* 🚀  I'm currently working at [Creatiz](creatiz.ai)
 * 🧠  I'm learning Generative AI
 * 🤝  I'm open to collaborating on **SuperLLM**
 * ⚡  I'm secretly looking for a job which would help me make the most out of my skills
