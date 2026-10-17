@@ -17,7 +17,7 @@ I build production LLM systems end to end: agentic pipelines, retrieval, evaluat
 
 ### Experience highlights
 
-| | |
+| Role | Highlights |
 |---|---|
 | **Creatiz** · Founding AI Engineer (2026 to present) | Full backend and AI stack: agentic LangGraph pipelines, Qdrant retrieval of users' past posts, LLM-as-judge evaluation |
 | **MHA Solution** · AI/ML Co-op (2025) | RAG support chatbot (LangChain, ChromaDB) that reduced manual error resolution |
