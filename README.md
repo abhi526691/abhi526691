@@ -35,16 +35,16 @@ I build production LLM systems end to end: agentic pipelines, retrieval, evaluat
 
 ### Tech stack
 
-**Languages:** Python, TypeScript/JavaScript, SQL
-**AI / ML:** LangGraph, LangChain, OpenAI, Gemini, Groq, PyTorch, TensorFlow, scikit-learn, SHAP/LIME
-**Data & retrieval:** Qdrant, ChromaDB, MongoDB, PostgreSQL, Redis
-**Backend & infra:** FastAPI, Celery, Docker, Kubernetes (AKS), Azure, GCP
-**Frontend:** Next.js, React
+- **Languages:** Python, TypeScript/JavaScript, SQL
+- **AI / ML:** LangGraph, LangChain, OpenAI, Gemini, Groq, PyTorch, TensorFlow, scikit-learn, SHAP/LIME
+- **Data & retrieval:** Qdrant, ChromaDB, MongoDB, PostgreSQL, Redis
+- **Backend & infra:** FastAPI, Celery, Docker, Kubernetes (AKS), Azure, GCP
+- **Frontend:** Next.js, React
 
 ### Education
 
-Graduate Certificate, AI & Data Science · Loyalist College (Toronto)
-B.Tech, Computer Science · Vel Tech
+- Graduate Certificate, AI & Data Science · Loyalist College (Toronto)
+- B.Tech, Computer Science · Vel Tech
 
 ---
 
